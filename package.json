@@ -30,7 +30,7 @@
     "postinstall": "node scripts/banner.js",
     "changeset": "changeset",
     "version": "changeset version",
-    "release": "changeset version && npm publish"
+    "release": "changeset publish"
   },
   "keywords": [
     "bento",
